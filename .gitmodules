@@ -1,0 +1,3 @@
+[submodule "MLModule/Dataset/ember"]
+	path = MLModule/Dataset/ember
+	url = https://github.com/elastic/ember
