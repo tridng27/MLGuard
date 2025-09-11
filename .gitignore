@@ -1,0 +1,5 @@
+# Ignore dataset files
+*.npz
+*.csv
+*.tar.bz2
+*.zip
