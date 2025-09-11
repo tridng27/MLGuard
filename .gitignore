@@ -3,3 +3,10 @@
 *.csv
 *.tar.bz2
 *.zip
+
+# Virtual environments
+venv/
+.venv/
+
+# Model
+*.json
